@@ -76,4 +76,6 @@ Rather than treating classification and regression independently, this pipeline 
 
 ## 👤 Author
 **Pooya Cheshmehkhavar**  
-- GitHub: [@PooyaCheshmehkhavar](https://github.com/PooyaCheshmehkhavar)
+- **LinkedIn:** [Pooya Cheshmehkhavar](https://www.linkedin.com/in/pooya-cheshmehkhavar-2b162434a/)
+- **Email:** [pooyacj5040@gmail.com](mailto:pooyacj5040@gmail.com)
+- **GitHub:** [@PooyaCheshmehkhavar](https://github.com/PooyaCheshmehkhavar)
